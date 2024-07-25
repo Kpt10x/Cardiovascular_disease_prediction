@@ -1,1 +1,14 @@
+pandas
+seaborn
+matplotlib
+scipy
+scikit-learn
+xgboost
+imbalanced-learn
 
+Optional:
+To specify exact versions and include any other dependencies, you can generate a requirements.txt using pip freeze in your environment. Here's how you can do it:
+Install all the required libraries in your environment.
+Run the following command in your terminal:
+pip freeze > requirements.txt
+This will create a requirements.txt file with all the dependencies and their versions as installed in your environment.
